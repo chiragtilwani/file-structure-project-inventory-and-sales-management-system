@@ -1,0 +1,25 @@
+1|Rice
+2|toilet soap
+3|washing powder
+4|detergent soap
+5|Dish Wash
+6|tooth paste
+7|hand wash
+8|face cream
+9|masala
+10|Tea Powder
+11|Face wash
+12|Salt
+13|Tea powder
+14| floor cleaner
+15|Toilet cleaner
+16|Matchbox
+17|sweets
+18|meat masala
+19|candy
+20|oil
+21|coffee
+22|namkeen
+23|soft drink
+24|noodles
+25|cookies

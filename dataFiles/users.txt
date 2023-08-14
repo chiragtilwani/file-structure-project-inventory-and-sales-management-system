@@ -1,0 +1,4 @@
+superAdmin|1234567890|admin
+test_user|12345678|user
+suryansh|suryansh|user
+chirag|chirag123|user
